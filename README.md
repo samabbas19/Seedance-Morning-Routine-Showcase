@@ -2,9 +2,11 @@
 
 A portrait lifestyle sequence exploring character continuity, everyday actions, and product interaction.
 
-[![Automatically looping preview of Seedance — Morning Routine Video](assets/preview.gif)](assets/demo.mp4)
+![Full-length automatically looping demo of Seedance — Morning Routine Video](assets/preview.gif)
 
-**[Watch the demo](assets/demo.mp4)** · **[Technical approach](docs/architecture.md)** · **[Evaluation](results/metrics.md)** · **[Media notes](docs/media.md)**
+The complete main demo plays here automatically as a silent looping animation. No play button or dropdown is needed.
+
+**[Open MP4 version](assets/demo.mp4)** · **[Technical approach](docs/architecture.md)** · **[Evaluation](results/metrics.md)** · **[Media notes](docs/media.md)**
 
 Synthetic video output; the animation plays automatically. Model attribution follows the supplied project folder.
 
@@ -53,4 +55,3 @@ This repository contains curated output media, technical context, and an evaluat
 Synthetic video case study. The supplied project folder identifies Seedance, but exact generation settings were not available. Depicted brands and products do not imply endorsement.
 
 See [NOTICE](NOTICE) for publication and attribution notes.
-
